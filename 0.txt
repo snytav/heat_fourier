@@ -1,0 +1,2 @@
+\sum _{n=1}^\infty \frac{\int_{0}^{\frac{\pi }{4}} {\mathrm{tan}\left(x\right)}^n \,d x+\int_{0}^{\frac{\pi }{4}} {\mathrm{tan}\left(x\right)}^{n+2} \,d x}{n}'
+
